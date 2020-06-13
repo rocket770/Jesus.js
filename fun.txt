@@ -1,0 +1,2 @@
+`/say` **Say something trough the bot!** __Usage__: */say <message>*
+

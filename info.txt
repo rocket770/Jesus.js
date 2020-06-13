@@ -1,0 +1,5 @@
+`/ping` **Check the user delay from the bot** __Usage__: */ping*
+`/id` **Gives you the id of user** __Usage__: */id [@user]
+`/botinfo` **Gives the bot info** __Usage__: */botinfo*
+`/userinfo` **Gives you the user info** __Usage__: */userinfo [@user]*
+`/serverinfo` **Gives you the server info** __Usage__: */serverinfo*

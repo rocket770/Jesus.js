@@ -1,0 +1,8 @@
+`/addrole` **Gives someone a role** __Usage__: */addrole <@user> <role>*
+`/removerole` **Removes someone's role** __Usage__: */removerole <@user> <role>*
+`/mute` **Mutes a user** __Usage__: */mute <@user> <time>*
+`/unmute` ** Unmutes a user** __Usage__: */unmute <@user>*
+`/kick` ** kicks a user** __Usage__: */kick <@user>*
+`/ban` ** bans a user** __Usage__: */ban <@user>*
+
+
